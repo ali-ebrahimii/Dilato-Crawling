@@ -62,14 +62,3 @@ run(headless=True)
 * Requires valid Dilato login credentials.
 * Designed for internal use (Saman Salamat).
 * Changes to the Dilato UI may require script updates.
-
----
-
-## 👤 Author
-
-**Ali Ebrahimi**
-Python • ML • DL • Automation
-
----
-
-If you'd like, I can also give you a **Farsi version**, a **super-short 5-line version**, or a **badge-style GitHub README**.
